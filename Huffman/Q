@@ -1,0 +1,30 @@
+Procédure Decompression(T:Texte)
+	var H : Huffman,
+		s : SYmbole
+		code : chaine caractere
+		l : length
+		initC : tableau de code initial
+	Répéter
+		l=0;
+		RépéterBis
+			s=symbole suivant de T
+			code[l]=s;
+			l++;
+		Jusqu'à T terminé ou rencontrer ' '
+		Si l>=5 /* nouvelle caractere */
+			i : parcourir initC[]
+				si init[i] et code sont identifient
+				H=Modification(H,i) => 1 caracteure decompressee
+			Fin i
+		Sinon /* caractere deja dans l'arbre */
+			// descendre depuis la racine(chemin parcour est code)
+			i : parcourir code[l]
+				si code[i] est '0'
+					descendre au fils gauche
+				sinon
+					descendre au fils droit
+			Fin i 
+			H=Modification(H,desc) => 1 caracteure decompressee
+		Fin Si
+	Jusqu'à T terminé
+FinProcédure Decompression
