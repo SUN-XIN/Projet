@@ -1,0 +1,23 @@
+﻿<datas>
+  <menus>
+    <menu title="Course" >
+      <submenus name="Introduction" swf="introduction.swf"  />
+      <submenus name="English-Spoken" swf="English-Spoken.swf"  />
+    </menu>
+    <menu title="Exercise"  >
+      <submenus name="Puzzle" swf="puzzle.swf"  />
+      <submenus name="C.Q" swf="qcm.swf"  />
+    </menu>
+    <menu title="Listen"  >
+      <submenus name="Numbers" swf="qcm_listen.swf"  />
+      <submenus name="Dialogue" swf="Listen_dialogue.swf"  />
+    </menu>
+    <menu title="Challenge"  >
+      <submenus name="Puzzle" swf="puzzle_time.swf"  />
+      <submenus name="C.Q" swf="qcm_time.swf"  />
+    </menu>
+    <menu title="Help" >
+      <submenus name="About" swf="about.swf"  />
+    </menu>
+  </menus>
+</datas>

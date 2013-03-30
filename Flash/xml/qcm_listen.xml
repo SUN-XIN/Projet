@@ -1,0 +1,128 @@
+<questions>
+	<question texte="—Choose the NUMBER that you heard." listen="../Listen1/num2-15.mp3" answer="fifteen">
+		<reponse>50</reponse>
+		<reponse>500</reponse>
+		<reponse bonne="vrai">15</reponse>
+		<reponse>5</reponse>
+	</question>
+	
+	<question texte="—Choose the NUMBER that you heard." listen="../Listen1/num4-380.mp3" answer="three hundred and eighty">
+		<reponse bonne="vrai">380</reponse>
+		<reponse>318</reponse>
+		<reponse>38</reponse>
+		<reponse>3800</reponse>
+	</question>
+	
+	<question texte="—Choose the NUMBER that you heard." listen="../Listen1/num5-3480.mp3" answer="three thousand four hundred and eighty">
+		<reponse>3418</reponse>
+		<reponse>3148</reponse>
+		<reponse bonne="vrai">3480</reponse>
+		<reponse>3080</reponse>
+	</question>
+	
+	<question texte="—Choose the TIME that you heard." listen="../Listen1/ti1-9.30.mp3" answer="nine thirty">
+		<reponse bonne="vrai">9:30</reponse>
+		<reponse>19:30</reponse>
+		<reponse>9:03</reponse>
+		<reponse>19:03</reponse>
+	</question>
+	
+	<question texte="—Choose the TIME that you heard." listen="../Listen1/ti3-11.10.mp3" answer="eleven ten">
+		<reponse bonne="vrai">11:10</reponse>
+		<reponse>11:00</reponse>
+		<reponse>01:10</reponse>
+		<reponse>11:11</reponse>
+	</question>
+	
+	<question texte="—Choose the TIME that you heard." listen="../Listen1/ti5-6.45.mp3" answer="six forty-five">
+		<reponse>16:45</reponse>
+		<reponse>6:40</reponse>
+		<reponse bonne="vrai">6:45</reponse>
+		<reponse>7:45</reponse>
+	</question>
+	
+	<question texte="—Choose the DAY that you heard." listen="../Listen1/d1-14.July.mp3" answer="the fourteenth of July">
+		<reponse>Juin 14</reponse>
+		<reponse bonne="vrai">July 14</reponse>
+		<reponse>Juin 4</reponse>
+		<reponse>July 4</reponse>
+	</question>
+	
+	<question texte="—Choose the DAY that you heard." listen="../Listen1/d2-2.Oc.mp3" answer="the second of October">
+		<reponse>October 3</reponse>
+		<reponse>October 13</reponse>
+		<reponse bonne="vrai">October 2</reponse>
+		<reponse>October 12</reponse>
+	</question>
+	
+	<question texte="—Choose the DAY that you heard." listen="../Listen1/d4-10.Apr.mp3" answer="April the tenth">
+		<reponse bonne="vrai">April 10</reponse>
+		<reponse>April 11</reponse>
+		<reponse>April 1</reponse>
+		<reponse>April 8</reponse>
+	</question>
+	
+	<question texte="—Choose the YEAR that you heard." listen="../Listen1/y2-1987.mp3" answer="nineteen eighty-seven">
+		<reponse bonne="vrai">1987</reponse>
+		<reponse>1917</reponse>
+		<reponse>1980</reponse>
+		<reponse>1907</reponse>
+	</question>
+
+	<question texte="—Choose the YEAR that you heard."  listen="../Listen1/y3-1971.mp3" answer="nineteen seventy-one">
+		<reponse>1970</reponse>
+		<reponse>1917</reponse>
+		<reponse bonne="vrai">1971</reponse>
+		<reponse>1977</reponse>
+	</question>
+
+	<question texte="—Choose the YEAR that you heard." listen="../Listen1/y4-1492.mp3" answer="fourteen ninety-two">
+		<reponse bonne="vrai">1492</reponse>
+		<reponse>4090</reponse>
+		<reponse>4092</reponse>
+		<reponse>1402</reponse>
+	</question>
+
+	<question texte="—Choose the SPELLING that you heard." listen="../Listen1/sp3-FLOWER.mp3" answer="F-L-O-W-E-R">
+		<reponse>F-L-O-W-I-R</reponse>
+		<reponse bonne="vrai">F-L-O-W-E-R</reponse>
+		<reponse>F-E-O-W-E-R</reponse>
+		<reponse>F-L-O-D-E-R</reponse>
+	</question>
+
+	<question texte="—Choose the SPELLING that you heard." listen="../Listen1/sp4-JOKING.mp3" answer="J-O-K-I-N-G">
+		<reponse>G-O-K-I-N-G</reponse>
+		<reponse>G-O-K-E-N-G</reponse>
+		<reponse>J-O-K-E-N-G</reponse>
+		<reponse bonne="vrai">J-O-K-I-N-G</reponse>
+	</question>
+
+	<question texte="—Choose the SPELLING that you heard." listen="../Listen1/sp5-LEMON.mp3" answer="L-E-M-O-N">
+		<reponse>L-I-N-O-N</reponse>
+		<reponse>L-E-N-O-N</reponse>
+		<reponse>I-E-M-O-N</reponse>
+		<reponse bonne="vrai">L-E-M-O-N</reponse>
+	</question>
+
+	<question texte="—Choose the TELEPHONE NUMBER that you heard." listen="../Listen1/t2-721506.mp3" answer="seven two one five o six">
+		<reponse>725506</reponse>
+		<reponse>775506</reponse>
+		<reponse>721566</reponse>
+		<reponse bonne="vrai">721506</reponse>
+	</question>
+
+	<question texte="—Choose the TELEPHONE NUMBER that you heard." listen="../Listen1/t3-697224.mp3" answer="six nine seven double two four">
+		<reponse>692224</reponse>
+		<reponse bonne="vrai">697224</reponse>
+		<reponse>662424</reponse>
+		<reponse>667224</reponse>
+	</question>
+
+	<question texte="—Choose the TELEPHONE NUMBER that you heard." listen="../Listen1/t4-564380.mp3" answer="five six four three eight o">
+		<reponse bonne="vrai">564380</reponse>
+		<reponse>664318</reponse>
+		<reponse>564318</reponse>
+		<reponse>554318</reponse>
+	</question>
+
+</questions>
